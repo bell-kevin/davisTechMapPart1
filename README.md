@@ -11,7 +11,9 @@ Submission: Zip together the root folder and the 2 screenshots, and submit the s
 
 https://github.com/academind/react-native-practical-guide-code/tree/12-native-features/code/20-finished
 
-![p]()
+![p](https://github.com/bell-kevin/davisTechMapPart1/blob/main/screenshots/launch.PNG)
+
+![p](https://github.com/bell-kevin/davisTechMapPart1/blob/main/screenshots/marker.PNG)
 
 ## How to:
 

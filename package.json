@@ -13,7 +13,7 @@
     "expo-status-bar": "~2.2.3",
     "react": "19.1.1",
     "react-native": "0.80.2",
-    "react-native-maps": "1.25.0"
+    "react-native-maps": "1.25.3"
   },
   "devDependencies": {
     "@babel/core": "^7.28.0"

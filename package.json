@@ -16,7 +16,7 @@
     "react-native-maps": "1.26.18"
   },
   "devDependencies": {
-    "@babel/core": "^7.28.4"
+    "@babel/core": "^7.28.5"
   },
   "private": true
 }
